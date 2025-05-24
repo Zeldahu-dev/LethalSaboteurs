@@ -1,0 +1,10 @@
+{
+    "name": "LethalSaboteurs",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Zeldahu-dev/LethalSaboteurs",
+    "description": "",
+    "dependencies": [
+        "Evaisa-LethalLib-0.16.4",
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
